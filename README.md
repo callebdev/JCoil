@@ -10,6 +10,25 @@ JCoil is an android application that through the Coil library, downloads images 
 * Sharing the image link via WhatsApp
 * Set the downloaded image as phone wallpaper
 
+### Screenshots
+
+#### Downloaded image set as wallpaper & Trying to download images while mobile data is off
+<table width="100%">
+  <tr>
+    <th width="25%"><img src="https://github.com/callebdev/JCoil/blob/master/Jcoil-screenshots/Screenshot_20200419-165556.png"></th>
+    <th width="25%"><img src="https://github.com/callebdev/JCoil/blob/master/Jcoil-screenshots/Screenshot_20200419-170522.png"></th>
+    <th width="25%"><img src="https://github.com/callebdev/JCoil/blob/master/Jcoil-screenshots/Screenshot_20200419-170532.png"></th></tr>
+</table>
+
+#### Image labeling showing detected elements and their confidence (in Toasts)
+<table width="100%">
+  <tr>
+    <th width="25%"><img src="https://github.com/callebdev/JCoil/blob/master/Jcoil-screenshots/Screenshot_20200419-170403.png"></th>
+    <th width="25%"><img src="https://github.com/callebdev/JCoil/blob/master/Jcoil-screenshots/Screenshot_20200419-170409.png"></th>
+    <th width="25%"><img src="https://github.com/callebdev/JCoil/blob/master/Jcoil-screenshots/Screenshot_20200419-170428.png"></th>
+  </tr>
+</table>
+
 ## Prerequisites
 In order to test / run the application you must have:
 * ``Android Studio 3.5`` or any higher version
@@ -22,15 +41,6 @@ In order to test / run the application you must have:
 ### Versioning
 [GitHub](https://github.com/)
 
-## Screenshots
-<table width="100%">
-  <tr>
-    <th width="25%"><img src=""></th>
-    <th width="25%"><img src=""></th>
-    <th width="25%"><img src=""></th>
-    <th width="25%"><img src=""></th>
-  </tr>
-</table>
 
 ## Author
 
