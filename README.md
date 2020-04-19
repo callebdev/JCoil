@@ -1,14 +1,19 @@
 # JCoil
 
 ## Getting Started
-
 JCoil is an android application that through the Coil library, downloads images from urls and also labels them through Machine Learning (Firebase MLKit).
 
 ### App functions
+
+#### Main functions
 * Download images (Online)
 * Image Labeling (Offline)
-* Sharing the image link via WhatsApp
+* Share the image url via WhatsApp
 * Set the downloaded image as phone wallpaper
+
+#### Other functions
+* Validate url
+* Verify internet connection
 
 ### Screenshots
 
