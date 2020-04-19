@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionWallpaper"
+        android:icon="@drawable/ic_gallery"
+        android:title="@string/set_as_wallpaper_txt"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/actionAnalyze"
+        android:icon="@drawable/ic_analyze"
+        android:title="@string/analyze_txt"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/actionShare"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share_txt"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/actionAbout"
+        android:title="@string/about_app"
+        app:showAsAction="never" />
+</menu>

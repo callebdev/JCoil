@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">J Coil</string>
+    <string name="analyze_txt">Analyze</string>
+    <string name="share_txt">Share</string>
+    <string name="download_txt">Download</string>
+    <string name="set_as_wallpaper_txt">Set as wallpaper</string>
+    <string name="clear_link_txt">Clear Link</string>
+    <string name="about_app">About</string>
+    <string name="insert_a_link_txt">Insert a link or try the one bellow</string>
+    <string name="random_link_txt">Random Link</string>
+</resources>

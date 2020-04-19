@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "888271142858",
+    "firebase_url": "https://mlproject-e0ebc.firebaseio.com",
+    "project_id": "mlproject-e0ebc",
+    "storage_bucket": "mlproject-e0ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888271142858:android:cfa7a1a033b025c36a1933",
+        "android_client_info": {
+          "package_name": "com.calleb.jcoil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888271142858-b5r1n9vs26sb8b0m1g867jcu4uijiupl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.calleb.jcoil",
+            "certificate_hash": "14e62678f6f9e23e4ae578454b25e2889c9eeb49"
+          }
+        },
+        {
+          "client_id": "888271142858-6j9cfphm24h6nqfnodad1s217282ac9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDazm-UNq2G7FNNrRCQfsu7SRLnsduYJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888271142858-6j9cfphm24h6nqfnodad1s217282ac9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
